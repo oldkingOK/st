@@ -7,6 +7,12 @@ Requirements
 ------------
 In order to build st you need the Xlib header files.
 
+Addtional fonts is needed.
+
+```shell
+pacman -S ttf-firacode-nerd
+```
+
 
 Installation
 ------------
