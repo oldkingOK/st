@@ -1,0 +1,56 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I/usr/X11R6/include",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-DVERSION=\"0.9.2\"",
+      "-D_XOPEN_SOURCE=600",
+      "-O1",
+      "-c",
+      "st.c"
+    ],
+    "directory": "/home/oldkingok/Documents/st",
+    "file": "/home/oldkingok/Documents/st/st.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-I/usr/X11R6/include",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-DVERSION=\"0.9.2\"",
+      "-D_XOPEN_SOURCE=600",
+      "-O1",
+      "-c",
+      "x.c"
+    ],
+    "directory": "/home/oldkingok/Documents/st",
+    "file": "/home/oldkingok/Documents/st/x.c"
+  }
+]
